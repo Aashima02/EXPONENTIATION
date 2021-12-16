@@ -25,7 +25,7 @@ expo(x)
 ```
 
 ## OUTPUT:
-![exponentiation of a number](./output.png)![output](https://user-images.githubusercontent.com/93427086/146315214-c0bb4011-044e-40b5-9964-b91b30f0047c.png)
+![exponentiation](./output.png)
 
 
 
